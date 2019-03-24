@@ -19,3 +19,8 @@ Index:
   2. Reverse
   3. List
   4. deepEquals
+* ch5
+  1. Flattening
+  2. YOur own loop
+  3. Everything
+  4. Dominant writing
