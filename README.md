@@ -18,3 +18,4 @@ Index:
   1. Sum a Range
   2. Reverse
   3. List
+  4. deepEquals
