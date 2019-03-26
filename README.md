@@ -21,6 +21,6 @@ Index:
   4. deepEquals
 * ch5
   1. Flattening
-  2. YOur own loop
+  2. Your own loop
   3. Everything
   4. Dominant writing
