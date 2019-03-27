@@ -24,3 +24,12 @@ Index:
   2. Your own loop
   3. Everything
   4. Dominant writing
+* ch6
+  1. Vec
+  2. Group
+  3. Group iterator
+  4. fix with call
+* ch7
+  1. Compare
+  2. PGroup
+  3. Robot
