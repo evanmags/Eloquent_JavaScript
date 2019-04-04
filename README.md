@@ -33,3 +33,18 @@ Index:
   1. Compare
   2. PGroup
   3. Robot
+* ch8
+  1. locked_box
+  2. multiply
+* ch9
+  1. regex (three problems);
+* ch10
+  no written problems in this chapter
+* ch11
+  1. locate scalpel
+  2. Promise_all
+* ch12
+  1. Arrays
+  2. Closure
+  3. Comments
+  4. Scope
