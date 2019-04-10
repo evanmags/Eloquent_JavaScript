@@ -48,3 +48,13 @@ Index:
   2. Closure
   3. Comments
   4. Scope
+* ch13
+  no problems for this chapter
+* ch14
+  1. Building a Table
+  2. byTagName
+  3. Cat's Hat
+* ch15
+  1. Balloon
+  2. Mouse Trail
+  3. Tabs
