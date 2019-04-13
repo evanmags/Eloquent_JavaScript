@@ -1,6 +1,9 @@
 # Eloquent JavaScript
 ### Solutions to propbem sets, exercises, and projects.
 
+Code is a either entirely my own, or modified functions from the exercises. 
+In an attempt to maintain context problems that required modifiying code were directly copy/pasted after solutions were found. 
+
 Index:
 * introduction
   1. no exercises for this chapter
