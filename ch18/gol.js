@@ -1,6 +1,6 @@
 class Grid{
-  constructor(display){
-    if (!display){
+  constructor(cells){
+    if (!cells){
       this.cells = [];
       for (let i = 0; i < 20; i++){
         let row = []
@@ -10,7 +10,7 @@ class Grid{
         this.cells.push(row)
       }
     }
-    else this.cells = display;
+    else this.cells = cells;
   }
   display(){
     let grid = document.querySelector("#grid")
